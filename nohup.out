@@ -1,0 +1,9 @@
+(node:67781) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Starting project at /home/beraa/programing_languages/react_native/my_words_store
+env: load .env
+env: export DATABASE_NAME
+Starting Metro Bundler
+warning: Bundler cache is empty, rebuilding (this may take a minute)
+Waiting on http://localhost:8081
+Logs for your project will appear below.

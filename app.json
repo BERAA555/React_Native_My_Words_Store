@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "version": "1.0.0",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "web": {
+      "bundler": "metro"  
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "My Words Store",
+    "slug": "My_Words_Store",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "6eea719e-28a3-4c20-8bce-a42e88856d28"
+      }
+    },
+    "android": {
+      "package": "com.beraa558.my_words_store"
+    }
+  }
+}
